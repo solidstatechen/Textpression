@@ -18,4 +18,4 @@ dev server<br/>
 npm i --save-dev nodemon<br/>
 
 client socket<br/>
-npm i socket-io-client<br/>
+npm i socket.io-client<br/>
