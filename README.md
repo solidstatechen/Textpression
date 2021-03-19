@@ -8,8 +8,8 @@ npm i react-bootstrap bootstrap<br/>
 Random id generator uuid <br/>
 npm i uuid<br/>
 
-socket io 
-npm i socket.io
+socket io <br/>
+npm i socket.io<br/>
 
-dev server
-npm i --save dev nodemon
+dev server<br/>
+npm i --save dev nodemon<br/>
