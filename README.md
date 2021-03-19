@@ -19,3 +19,6 @@ npm i --save-dev nodemon<br/>
 
 client socket<br/>
 npm i socket.io-client<br/>
+
+start server script <br/>
+npm run devStart </br>
