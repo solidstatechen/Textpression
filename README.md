@@ -1,15 +1,15 @@
-### Textpression
+# Textpression
 
 ## To Run
 
-# in /client<br/>
+### in /client<br/>
 npm start<br/>
 
-# in /server<br/>
+### in /server<br/>
 npm run DevStart<br/>
 
 
-# Dependencies 
+### Dependencies 
 
 React Bootstrap<br/>
 npm i react-bootstrap bootstrap<br/>
