@@ -5,12 +5,13 @@ import { useConversations } from '../Contexts/ConversationsProvider'
 
 export default function CurrentConversation() {
     const [text, setText] = useState('')
-    const { sendMessage, selectedConversation } = useConversations()
     const setRef = useCallback(node => {
         if (node){
             node.scrollIntoView({ smooth:true })
             }
         }, [])
+
+    const { sendMessage, selectedConversation } = useConversations()
 
     function handleSubmit(e) {
         e.preventDefault()
